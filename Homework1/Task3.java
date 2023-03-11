@@ -9,7 +9,6 @@ package Homework1;
 
 import java.util.Scanner;
 
-import javax.sql.rowset.spi.SyncResolver;
 public class Task3 {
     public static void main(String[] args) {
         Scanner iScanner = new Scanner(System.in);
