@@ -28,6 +28,6 @@ public class Siminar4_2 {
             }
                  
         }
-        
+        iscan.close();
     }
 }

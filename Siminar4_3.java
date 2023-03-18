@@ -29,5 +29,6 @@ public class Siminar4_3 {
             }
                  
         }
+        iscan.close();
     }
 }
