@@ -55,6 +55,7 @@ public class Task2 {
 
             result = new String(chars);
             System.out.println(result);
+            fr.close();
         } catch (Exception e) {
             System.out.println("А тут ошибка!");
         }
